@@ -11,7 +11,7 @@ A powerful web tool that analyzes GitHub profiles and provides actionable recomm
 
 **[Watch the demo video here](https://drive.google.com/file/d/1hDgK-RJw1lw6cBH_9GPA8ZjNGuD5tWEA/view?usp=drive_link)** *(Screen recording demonstrating the live, working project)*
 
-https://user-images.githubusercontent.com/demo-video.mp4
+https://drive.google.com/file/d/1hDgK-RJw1lw6cBH_9GPA8ZjNGuD5tWEA/view?usp=drive_link
 
 > **Note:** Replace the above placeholder with an actual screen recording showing:
 > - Entering a GitHub username
@@ -78,7 +78,7 @@ npx http-server
 1. Fork this repository
 2. Go to Settings → Pages
 3. Select main branch as source
-4. Your site will be live at `https://yourusername.github.io/github-analyzer/`
+4. Your site will be live at https://github](https://mrmushtaq.github.io/GitHub-Portfolio-Analyzer-Enhancer/
 
 ---
 
@@ -180,19 +180,6 @@ Overall = (Documentation × 0.25) + (CodeQuality × 0.20) + (Activity × 0.15)
 1. 🔥 **HIGH**: Maintain Consistent Activity - Last commit was 45 days ago
 2. ⚡ **MEDIUM**: Add more live demo links to showcase working projects
 3. 💡 **LOW**: Continue building diverse projects across different domains
-
----
-
-## 🎨 Screenshots
-
-### Landing Page
-![Landing Page](assets/screenshot-landing.png)
-
-### Analysis Results
-![Analysis Results](assets/screenshot-results.png)
-
-### Recommendations
-![Recommendations](assets/screenshot-recommendations.png)
 
 ---
 
