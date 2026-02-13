@@ -4,8 +4,9 @@
 
 A powerful web tool that analyzes GitHub profiles and provides actionable recommendations to help students and early-career developers make their portfolios stand out to recruiters.
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)]([https://github](https://mrmushtaq.github.io/GitHub-Portfolio-Analyzer-Enhancer/))
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://mrmushtaq.github.io/GitHub-Portfolio-Analyzer-Enhancer/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+
 
 ## 📺 Demo Video
 
