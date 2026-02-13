@@ -9,7 +9,7 @@ A powerful web tool that analyzes GitHub profiles and provides actionable recomm
 
 ## 📺 Demo Video
 
-**[Watch the demo video here](#)** *(Screen recording demonstrating the live, working project)*
+**[Watch the demo video here](https://drive.google.com/file/d/1hDgK-RJw1lw6cBH_9GPA8ZjNGuD5tWEA/view?usp=drive_link)** *(Screen recording demonstrating the live, working project)*
 
 https://user-images.githubusercontent.com/demo-video.mp4
 
@@ -118,7 +118,6 @@ npx http-server
 github-analyzer/
 ├── index.html          # Main application file
 ├── README.md           # This file
-└── assets/            # (Optional) Demo videos and screenshots
 ```
 
 ### Analysis Algorithm
@@ -245,21 +244,6 @@ This project meets all hackathon requirements:
 
 ---
 
-## 🚀 Deployment Options
-
-### Vercel (Recommended)
-```bash
-npm i -g vercel
-vercel --prod
-```
-
-### Netlify
-```bash
-# Drag and drop the folder to netlify.com/drop
-# Or use Netlify CLI
-netlify deploy --prod
-```
-
 ### GitHub Pages
 ```bash
 # Already configured! Just enable in Settings → Pages
@@ -316,7 +300,7 @@ Contributions are welcome! Here's how you can help:
 
 ### Development Setup
 ```bash
-git clone https://github.com/yourusername/github-analyzer.git
+git clone https://github.com/mrmushtaq/GitHub-Portfolio-Analyzer-Enhancer.git
 cd github-analyzer
 # Open index.html in your browser
 # Make changes and test
@@ -334,20 +318,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🏆 Hackathon Submission
 
 **Project Name:** GitHub Portfolio Analyzer & Enhancer  
-**Team:** [Your Name/Team Name]  
+**Team:** Mushtaque Ali  
 **Hackathon:** UnsaidTalks GitHub Portfolio Challenge  
 **Submission Date:** February 13, 2026  
-
-### Deliverables Checklist
-- ✅ Working Prototype (index.html)
-- ✅ Scoring System (6 metrics with weighted scoring)
-- ✅ Actionable Feedback (Priority-based recommendations)
-- ✅ User-Friendly Interface (Modern, responsive design)
-- ✅ Demo Video (See top of README)
-- ✅ Comprehensive Documentation (This README)
-- ✅ Public Repository (GitHub Pages ready)
-
----
 
 ## 💡 Key Insights & Learnings
 
@@ -365,33 +338,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Score Calibration** – Balanced weights across multiple metrics
 - **Real-time Analysis** – Optimized for <20 second analysis time
 - **Mobile Responsiveness** – CSS Grid and Flexbox for all screen sizes
-
----
-
-## 📞 Contact & Support
-
-- **Email:** info@unsaidtalks.com
-- **WhatsApp:** +91-7303573374
-- **Website:** [unsaidtalks.com](https://www.unsaidtalks.com)
-
-For bugs or feature requests, please open an issue on GitHub.
-
----
-
-## 🙏 Acknowledgments
-
-- **UnsaidTalks** – For organizing this amazing hackathon
-- **GitHub API** – For providing comprehensive developer data
-- **Open Source Community** – For inspiration and best practices
-
----
-
-## 📚 Additional Resources
-
-- [GitHub API Documentation](https://docs.github.com/en/rest)
-- [How to Write a Good README](https://www.makeareadme.com/)
-- [Git Best Practices](https://git-scm.com/book/en/v2)
-- [UnsaidTalks Build4Hire Program](https://unsaidtalks.com/build4hire-webdev-genai/)
 
 ---
 
