@@ -1,4 +1,4 @@
-# 🚀 GitHub Portfolio Analyzer & Enhancer
+#  GitHub Portfolio Analyzer & Enhancer
 
 > **Turn Repositories into Recruiter-Ready Proof**
 
